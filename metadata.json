@@ -1,0 +1,6 @@
+{
+  "name": "Stress Management Portal",
+  "description": "An interactive, educational psychology website covering stress triggers, interactive breathing exercises, wellness tips, self-assessments, and healthy coping strategies (PSY110 Project).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
